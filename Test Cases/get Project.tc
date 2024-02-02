@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get Project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1468b12-74e1-47d4-90dd-7d0df86a2a19</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2469f897-87f1-41f7-9e33-135933a5d0c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TUTO'</defaultValue>
+      <description></description>
+      <id>2469f897-87f1-41f7-9e33-135933a5d0c7</id>
+      <masked>false</masked>
+      <name>spaceKEY</name>
+   </variable>
+</TestCaseEntity>
