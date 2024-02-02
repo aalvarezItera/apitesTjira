@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WS.sendRequest(findTestObject('GET space'))
+WS.sendRequest(findTestObject('GET space', [('key') : 'TUTO', ('username') : 'ngoc', ('password') : '1234567890']))
 
